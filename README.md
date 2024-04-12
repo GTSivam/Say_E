@@ -29,7 +29,7 @@ To deploy this project run
 ```
 ## Screenshots
 
-![App Screenshot](say.png)
+![App Screenshot](Say.png)
 
 
 ## Authors

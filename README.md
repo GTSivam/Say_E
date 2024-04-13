@@ -14,7 +14,7 @@ Install my-project
 
 ```bash
   apt-get install git -y
-  https://github.com/GTSivam/Say_E.git
+ git clone https://github.com/GTSivam/Say_E.git
   cd Say_E
   chmod 777 install
   chmod 777 run

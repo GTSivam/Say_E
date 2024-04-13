@@ -13,7 +13,7 @@
 Install my-project 
 
 ```bash
-  apt-get install git -y
+  sudo apt-get install git -y
   git clone https://github.com/GTSivam/Say_E.git
   cd Say_E
   chmod 777 install
